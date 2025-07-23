@@ -1,8 +1,8 @@
-# 🌍 Wandovia
+<img width="619" height="360" alt="image" src="https://github.com/user-attachments/assets/4f2ac33e-de11-4883-b410-b1653a4aa6d0" /># 🌍 Wandovia
 
 A comprehensive, feature-rich travel planning application built with React.js that helps you organize, track, and manage all aspects of your travel adventures.
 
-![Travel Planner Dashboard](https://www.google.com/imgres?q=travel&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F00%2F65%2F48%2F25%2F360_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dtravel&docid=6Sgxos7kE6MEzM&tbnid=Ms8t72UDNg9NLM&vet=12ahUKEwj1xMLVktKOAxWrSWwGHVlkNHoQM3oECBIQAA..i&w=619&h=360&hcb=2&ved=2ahUKEwj1xMLVktKOAxWrSWwGHVlkNHoQM3oECBIQAA)
+![Travel Planner Dashboard](https://t4.ftcdn.net/jpg/00/65/48/25/360_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg)
 
 ## ✨ Features
 
