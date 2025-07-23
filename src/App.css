@@ -6,11 +6,8 @@
 
 :root {
   /* Light theme colors */
-  --color-primary: #2563EB;
   --color-primary-hover: #1D4ED8;
-  --color-secondary: #0D9488;
   --color-secondary-hover: #0F766E;
-  --color-accent: #EA580C;
   --color-accent-hover: #DC2626;
   --color-success: #10B981;
   --color-warning: #F59E0B;
