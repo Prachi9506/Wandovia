@@ -71,7 +71,7 @@ A comprehensive, feature-rich travel planning application built with React.js th
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/travel-planner.git
+   https://github.com/Prachi9506/Wandovia
    cd travel-planner
    ```
 
@@ -149,79 +149,6 @@ The application is fully responsive with breakpoints for:
 - **Visual Feedback**: Progress bars and warning indicators
 - **Multi-budget Support**: Separate budgets for different trips
 
-## 🔧 Configuration
-
-### Environment Variables
-Create a `.env` file in the root directory:
-
-```env
-# Optional: Add API keys for enhanced features
-VITE_OPENWEATHER_API_KEY=your_openweather_api_key
-VITE_GOOGLE_MAPS_API_KEY=your_google_maps_api_key
-```
-
-### Customization
-- **Colors**: Modify CSS variables in `src/App.css`
-- **Themes**: Extend the theme system in `src/contexts/ThemeContext.jsx`
-- **Components**: All components are modular and easily customizable
-
-## 📊 Data Management
-
-### Local Storage
-- All data is automatically saved to browser local storage
-- No backend required for basic functionality
-- Data persists between sessions
-
-### Data Structure
-```javascript
-{
-  trips: [],
-  visitedPlaces: [],
-  wishlistPlaces: [],
-  packingLists: [],
-  budgets: [],
-  photos: []
-}
-```
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Leaflet.js** - For the amazing mapping library
-- **Lucide** - For the beautiful icon set
-- **Pexels** - For the stock photos used in examples
-- **OpenStreetMap** - For the map tiles
-
-## 📞 Support
-
-If you have any questions or need help, please:
-1. Check the [Issues](https://github.com/yourusername/travel-planner/issues) page
-2. Create a new issue if your problem isn't already reported
-3. Provide detailed information about your issue
-
-## 🗺️ Roadmap
-
-### Upcoming Features
-- [ ] PDF itinerary export
-- [ ] Social sharing functionality
-- [ ] Offline map support
-- [ ] Multi-language support
-- [ ] Advanced trip statistics
-- [ ] Collaborative trip planning
-- [ ] Integration with booking platforms
-
----
 
 **Made with ❤️ for travelers by travelers**
 
