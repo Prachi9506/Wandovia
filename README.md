@@ -1,4 +1,4 @@
-# 🌍 Full Stack Travel Planner
+# 🌍 Wandovia
 
 A comprehensive, feature-rich travel planning application built with React.js that helps you organize, track, and manage all aspects of your travel adventures.
 
