@@ -2,7 +2,7 @@
 
 A comprehensive, feature-rich travel planning application built with React.js that helps you organize, track, and manage all aspects of your travel adventures.
 
-![Travel Planner Dashboard](https://images.pexels.com/photos/1008155/pexels-photo-1008155.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
+![Travel Planner Dashboard](https://www.google.com/imgres?q=travel&imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F00%2F65%2F48%2F25%2F360_F_65482539_C0ZozE5gUjCafz7Xq98WB4dW6LAhqKfs.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Dtravel&docid=6Sgxos7kE6MEzM&tbnid=Ms8t72UDNg9NLM&vet=12ahUKEwj1xMLVktKOAxWrSWwGHVlkNHoQM3oECBIQAA..i&w=619&h=360&hcb=2&ved=2ahUKEwj1xMLVktKOAxWrSWwGHVlkNHoQM3oECBIQAA)
 
 ## ✨ Features
 
