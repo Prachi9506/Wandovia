@@ -20,6 +20,7 @@ const Header = () => {
           <div className="logo">
             <MapPin size={24} />
             <h1>TravelPlanner</h1>
+            <a href="https://green-voyage.vercel.app/"><h1>TravelPlanner</h1></a>
           </div>
         </div>
         
