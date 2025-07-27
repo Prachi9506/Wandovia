@@ -61,6 +61,13 @@ A comprehensive, feature-rich travel planning application built with React.js th
 - **Card-based Layout**: Clean, modern interface design
 - **Accessibility**: WCAG compliant with proper contrast ratios
 
+### 🌱 Sustainable Travel
+- Carbon Footprint Estimator (by distance & cost)
+- Green Trip Planner for eco-friendly travel options
+- Sustainable Travel Tips and awareness articles
+- Real NGO Collaborations for meaningful impact
+- Eco Blog Section with verified resources
+
 ## 🚀 Getting Started
 
 ### Prerequisites
