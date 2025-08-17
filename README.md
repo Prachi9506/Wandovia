@@ -12,7 +12,7 @@ A comprehensive, feature-rich travel planning application built with React.js th
 - **Wishlist Management**: Save destinations for future trips
 - **Custom Markers**: Green markers for visited places, red for wishlist
 - **Place Management**: Add, edit, and delete places with detailed information
-- **Responsive List View**: Toggle between map and list views on mobile 
+- **Responsive List View**: Toggle between map and list views on mobile  
 
 ### 📅 Trip Planner 
 - **Complete Trip Management**: Create, edit, and delete trips
