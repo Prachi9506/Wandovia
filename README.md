@@ -14,7 +14,7 @@ A comprehensive, feature-rich travel planning application built with React.js th
 - **Place Management**: Add, edit, and delete places with detailed information
 - **Responsive List View**: Toggle between map and list views on mobile 
 
-### 📅 Trip Planner
+### 📅 Trip Planner 
 - **Complete Trip Management**: Create, edit, and delete trips
 - **Date Planning**: Set start and end dates with duration calculation
 - **Activity Planning**: Add and manage planned activities
