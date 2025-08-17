@@ -40,7 +40,7 @@ A comprehensive, feature-rich travel planning application built with React.js th
 - **Detailed Metrics**: Temperature, humidity, wind speed, visibility
 - **Travel Planning**: Weather-based packing and activity suggestions
 - **Search Functionality**: Look up weather for any destination
-
+ 
 ### 📸 Photo Journal
 - **Memory Preservation**: Upload and organize travel photos
 - **Trip Association**: Link photos to specific trips
