@@ -9,7 +9,7 @@ import TripPlanner from './components/TripPlanner/TripPlanner';
 import WorldMap from './components/Maps/WorldMap'; 
 import PackingList from './components/PackingList/PackingList'; 
 import BudgetCalculator from './components/Budget/BudgetCalculator';
-import WeatherWidget from './components/Weather/WeatherWidget'; 
+import WeatherWidget from './components/Weather/WeatherWidget';  
 import PhotoJournal from './components/PhotoJournal/PhotoJournal';
 import CurrencyConverter from './components/Currency/CurrencyConverter'; 
 import './App.css';
