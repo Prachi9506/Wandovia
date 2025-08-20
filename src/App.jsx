@@ -12,7 +12,7 @@ import BudgetCalculator from './components/Budget/BudgetCalculator';
 import WeatherWidget from './components/Weather/WeatherWidget';  
 import PhotoJournal from './components/PhotoJournal/PhotoJournal';
 import CurrencyConverter from './components/Currency/CurrencyConverter'; 
-import './App.css';
+import './App.css'; 
 
 function App() {
   return (
