@@ -16,7 +16,7 @@ import './App.css';
 
 function App() {
   return (
-    <ThemeProvider>
+    <ThemeProvider> 
       <TravelPlannerProvider>
         <Router>
           <div className="app">
