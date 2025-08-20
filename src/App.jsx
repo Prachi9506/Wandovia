@@ -6,7 +6,7 @@ import Header from './components/Layout/Header';
 import Sidebar from './components/Layout/Sidebar'; 
 import Dashboard from './components/Dashboard/Dashboard';
 import TripPlanner from './components/TripPlanner/TripPlanner';
-import WorldMap from './components/Maps/WorldMap'; 
+import WorldMap from './components/Maps/WorldMap';  
 import PackingList from './components/PackingList/PackingList';   
 import BudgetCalculator from './components/Budget/BudgetCalculator'; 
 import WeatherWidget from './components/Weather/WeatherWidget';   
