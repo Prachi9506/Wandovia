@@ -22,7 +22,7 @@ function App() {
           <div className="app">
             <Header />
             <div className="app-content">
-              <Sidebar />
+              <Sidebar /> 
               <main className="main-content">
                 <Routes>
                   <Route path="/" element={<Dashboard />} />
