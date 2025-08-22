@@ -18,7 +18,7 @@ function App() {
   return (
     <ThemeProvider> 
       <TravelPlannerProvider> 
-        <Router>
+        <Router> 
           <div className="app">
             <Header />
             <div className="app-content">
