@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { TravelPlannerProvider } from './contexts/TravelPlannerContext';
 import { ThemeProvider } from './contexts/ThemeContext';
-import Header from './components/Layout/Header';
+import Header from './components/Layout/Header'; 
 import Sidebar from './components/Layout/Sidebar'; 
 import Dashboard from './components/Dashboard/Dashboard';
 import TripPlanner from './components/TripPlanner/TripPlanner';
