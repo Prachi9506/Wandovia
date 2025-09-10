@@ -12,7 +12,7 @@ const themes = {
   },
   purple: {
     name: 'Royal Purple',
-    primary: '#7C3AED',
+    primary: '#7C3AED', 
     secondary: '#DB2777',
     accent: '#F59E0B'
   },
