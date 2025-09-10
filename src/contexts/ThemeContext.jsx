@@ -2,7 +2,7 @@
 import React, { createContext, useContext, useState, useEffect } from 'react';
 
 const ThemeContext = createContext(); 
-
+ 
 const themes = {
   blue: {
     name: 'Ocean Blue',
