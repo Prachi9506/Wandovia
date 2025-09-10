@@ -7,7 +7,7 @@ const themes = {
   blue: {
     name: 'Ocean Blue',
     primary: '#2563EB',
-    secondary: '#0D9488',
+    secondary: '#0D9488', 
     accent: '#EA580C'
   },
   purple: {
