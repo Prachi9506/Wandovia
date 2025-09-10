@@ -6,7 +6,7 @@ const ThemeContext = createContext();
 const themes = {
   blue: {
     name: 'Ocean Blue',
-    primary: '#2563EB',
+    primary: '#2563EB', 
     secondary: '#0D9488', 
     accent: '#EA580C'
   },
